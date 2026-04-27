@@ -33,6 +33,6 @@
 ---
 
 ### 📈 Stats
-![Chino's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的使用者名稱&show_icons=true&theme=transparent)
+![Chino's GitHub stats](https://github-readme-stats.vercel.app/api?username=talkouki89&show_icons=true&theme=transparent)
 
 > "Breaking boundaries and building bots."
